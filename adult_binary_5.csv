@@ -1,0 +1,6 @@
+age,workclass,hours_per_week,income
+39, State-gov,40, <=50K
+52, Self-emp-not-inc,45, >50K
+31, Private,50, >50K
+23, Private,30, <=50K
+32, Private,50, <=50K
